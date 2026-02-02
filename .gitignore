@@ -1,0 +1,14 @@
+# Node
+node_modules/
+app/node_modules/
+dist/
+app/dist/
+
+# Python
+venv/
+__pycache__/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
